@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shivanand-Prabhu
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Java 
+- 🌱 I’m currently learning Software Development 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Gmail: CodingDevs2024@gmail.com
+- 📫 How to reach me Gmail: Shivalovesmaths@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Im a web Developer
 
